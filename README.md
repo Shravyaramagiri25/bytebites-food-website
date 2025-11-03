@@ -15,9 +15,9 @@ ByteBites is a simple food delivery website built for a college hackathon. Users
 - Runs entirely in-browser (no backend required)
 
 ## 👩‍💻 Team
-- Shravya Joseph – UI & Presentation
-- [Teammate 1] – JavaScript & Logic
-- [Teammate 2] – Styling & Testing
+- Shravya Ramagiri – UI & Presentation
+- Snigdha kandadi– JavaScript & Logic
+- Ananya Singam– Styling & Testing
 
 ## 💡 Future Scope
 - Add login system
